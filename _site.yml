@@ -1,1 +1,9 @@
-
+name: "Winnie-website"
+output_dir: "."
+navbar:
+  title: "Winnie Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
