@@ -1,12 +1,13 @@
 ---
 title: "My third R Markdown"
 author: "Winnie Liou"
-date: "2018¦~10¤ë28¤é"
-output: 
+date: "20181028"
+output:
   html_document:
-    toc: true
-    toc_float: true
-
+    toc: yes
+    toc_float: yes
+  pdf_document:
+    toc: yes
 ---
 
 ```{r setup, include=FALSE}
