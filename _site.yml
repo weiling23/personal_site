@@ -6,8 +6,8 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "About Me"
-  left:
       href: about.html
+  left:
     - text: "My_third_R_Markdown"
       href: My_third_R_Markdown.html      
       
