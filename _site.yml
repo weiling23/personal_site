@@ -7,3 +7,7 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "My_third_R_Markdown"
+      href: My_third_R_Markdown.html      
+      
+      
