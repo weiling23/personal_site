@@ -1,4 +1,4 @@
-setwd("C:/Users/user/Desktop/personal_site")
+setwd("C:\Users\user\Documents\GitHub\personal_site")
 
 
 rmarkdown::render_site()
