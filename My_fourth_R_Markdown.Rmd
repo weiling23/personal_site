@@ -25,7 +25,7 @@ mb<-matrix(b,3,2)
 #mb
 da<-data.frame(ma)
 db<-data.frame(mb)
-name<-c("身高","體重")
+name<-c("height","weight")
 names(da)<-name
 names(db)<-name
 da
